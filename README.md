@@ -12,4 +12,4 @@ contract Margarita is ERC20, Ownable {
         _mint(msg.sender, tokenSupply);
     }
 }
-///
+//
